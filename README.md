@@ -45,6 +45,13 @@ npm run build
   <span>
       <image width="200" src='./Register.jpg' />
       <image width="200" src='./Login.jpg' />
+    <image width="200" src='./home.jpg' />
+    <image width="200" src='./landing page.jpg' />
+    <image width="200" src='./landing page 2.jpg' />
+    <image width="200" src='./landing page 3.jpg' />
+    <image width="200" src='./logout.jpg' />
+    <image width="200" src='./update data.jpg' />
+    <image width="200" src='./checkout.jpg' />
 
 ## Project setup
 ```
